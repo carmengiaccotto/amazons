@@ -4,11 +4,6 @@ La page du sujet :
 
 https://www.labri.fr/perso/renault/working/teaching/projets/2022-23-S6-C-Amazons.php
 
-La page sur thor :
-
-https://thor.enseirb-matmeca.fr/ruby/projects/projetss6-amaz/overview
-
-
 This project contains a server and client implementation of a game. The game includes two players, each with their own shared library (libplayer.so and libplayer2.so). The server controls the game, while the client connects to the server and requests to play the game.
 Prerequisites
 
