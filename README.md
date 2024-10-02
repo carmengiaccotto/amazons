@@ -1,6 +1,6 @@
 # Sujet de programmation impérative
 
-La page du sujet :
+Topic page:
 
 https://www.labri.fr/perso/renault/working/teaching/projets/2022-23-S6-C-Amazons.php
 
@@ -45,7 +45,7 @@ To completely remove the project, including object files, executables and covera
 
 "make cleanall"
 
-# Liste des développeurs
+# Developers:
 
 - C. Giaccotto
 - F. Roters
