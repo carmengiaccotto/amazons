@@ -5,7 +5,8 @@ Topic page:
 https://www.labri.fr/perso/renault/working/teaching/projets/2022-23-S6-C-Amazons.php
 
 This project contains a server and client implementation of a game. The game includes two players, each with their own shared library (libplayer.so and libplayer2.so). The server controls the game, while the client connects to the server and requests to play the game.
-Prerequisites
+
+# Prerequisites
 
 To build and run this project, you will need the following dependencies:
 
